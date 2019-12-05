@@ -9,8 +9,8 @@ namespace c2f
         {
             double tempCelsius = 0;
             double tempFahrenheit = ((tempCelsius * 9) / 5) + 32;
-            WriteLine("{0, 12}{1, 12}", "Celsius", "Fahrenheit");
-            WriteLine("{0, 12:F0}{1, 12:F1}", tempCelsius, tempFahrenheit);
+            WriteLine("{0, 8}{1, 12}", "Celsius", "Fahrenheit");
+            WriteLine("{0, 8:F0}{1, 12:F1}", tempCelsius, tempFahrenheit);
             ReadLine();
         }
     }
