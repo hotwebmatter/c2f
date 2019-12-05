@@ -8,6 +8,7 @@ namespace c2f
         static void Main(string[] args)
         {
             double tempCelsius = 32;
+            double tempFahrenheit = ((tempCelsius * 9) / 5) + 32;
             ReadLine();
         }
     }
