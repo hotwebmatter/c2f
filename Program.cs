@@ -7,6 +7,7 @@ namespace c2f
     {
         static void Main(string[] args)
         {
+            double tempCelsius = 32;
             ReadLine();
         }
     }
