@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace c2f
 {
@@ -6,7 +7,7 @@ namespace c2f
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ReadLine();
         }
     }
 }
