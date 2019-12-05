@@ -1,4 +1,13 @@
-﻿using System;
+﻿/**
+ * ######################################################
+ * ##    Programming Exercise Chapter 2 #1             ##
+ * ##    Developer: Matthew Obert                      ##
+ * ##    Date Submitted: December 5 2019               ##
+ * ##    Purpose: Width & numeric format specifiers    ##
+ * ######################################################
+ */
+
+using System;
 using static System.Console;
 
 namespace c2f
