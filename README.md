@@ -42,4 +42,23 @@ I'm not supposed to use a for loop (yet), but I wanted to see a column of number
       30        86.0
       31        87.8
       32        89.6
+
+
+  Fahrenheit Celsius
+           0     -17
+          20      -6
+          40       4
+          60      15
+          80      26
+         100      37
+         120      48
+         140      60
+         160      71
+         180      82
+         200      93
+         220     104
+         240     115
+         260     126
+         280     137
+         300     148
 ```
