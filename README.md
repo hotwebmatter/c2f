@@ -11,9 +11,12 @@ after the famous and oft-imititated "Hello World") in Kernighan & Ritchie's clas
 1978 textbook "The C Programming Language" was actually a Fahrenheit to Celsius
 conversion, so I included a C# variant of that algorithm in this solution.
 
-The differences are minor. I declared `LOWER`, `UPPER`, and `STEP` as constants
-(C allows that too, but Kernighan and Ritchie kept their example very simple) and
-there are differences between `printf()` and `WriteLine()` string formatting.
+The differences are minor. I declared `LOWER`, `UPPER`, and `STEP` as constants,
+The qualifier `const` works in C as well (though it would be more 1978-style to
+define symbolic constants like these with a `#define` line) but Kernighan
+and Ritchie kept things very simple in this example, and there are differences
+between `printf()` and `WriteLine()` string formatting. Otherwise, this C code
+compiles and executes without modification in C#.
 
 ## Example output
 ```
