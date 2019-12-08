@@ -13,7 +13,7 @@ conversion, so I included a C# variant of that algorithm in this solution.
 
 The differences are minor. I declared `LOWER`, `UPPER`, and `STEP` as constants
 (C allows that too, but Kernighan and Ritchie kept their example very simple) and
-there are differences between `sprintf()` and `WriteLine()` string formatting.
+there are differences between `printf()` and `WriteLine()` string formatting.
 
 ## Example output
 ```
