@@ -6,6 +6,11 @@ Not assigned in class, but I'm keeping up my GitHub streak.
 
 I'm not supposed to use a for loop (yet), but I wanted to see a column of numbers.
 
+As a bonus, I remembered that the second programming example (indeed, the first
+after the famous and oft-imititated "Hello World") in Kernighan & Ritchie's classic
+1978 textbook "The C Programming Language" was actually a Fahrenheit to Celsius
+conversion, so I included a C# variant of that algorithm in this solution.
+
 ## Example output
 ```
  Celsius  Fahrenheit
